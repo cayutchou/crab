@@ -1,8 +1,8 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# le CRAB
 
-# L'Échappée Belle
-
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Le CRAB **un groupe** de croqueurs-randonneurs autogérés du Buëch qui se retrouvent pour **dessiner en se baladant ou se balader pour dessiner** . 
