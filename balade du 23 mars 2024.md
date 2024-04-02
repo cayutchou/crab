@@ -1,5 +1,5 @@
 ---
-title: "Activités"
+title: "Balade du 23 mars 2024"
 order: 1
 in_menu: true
 ---
